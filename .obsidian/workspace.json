@@ -11,8 +11,12 @@
             "id": "7a7171ba8f6b74e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04. Forces arising from contact (A)/4. Forces arising from contact.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04. Forces arising from contact (A)/4. Forces arising from contact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04. Forces arising from contact (A)/4. Forces arising from contact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04. Forces arising from contact (A)/4. Forces arising from contact.md"
+              }
             }
           }
         ]
@@ -138,6 +146,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bed59b1c07c28638",
-  "lastOpenFiles": []
+  "active": "7a7171ba8f6b74e0",
+  "lastOpenFiles": [
+    "02. Kinematics (A)/2. Kinematics.md",
+    "01. Introduction (A)/1. Introduction.md",
+    "04. Forces arising from contact (A)/4. Forces arising from contact.md"
+  ]
 }
