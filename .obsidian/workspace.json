@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Кинематика (A)/2. Kinematics.md",
+                "file": "03. Динамика (А)/3. Dynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Кинематика (A)/2. Kinematics.md",
+                "file": "03. Динамика (А)/3. Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Кинематика (A)/2. Kinematics.md",
+                "file": "03. Динамика (А)/3. Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Кинематика (A)/2. Kinematics.md"
+                "file": "03. Динамика (А)/3. Dynamics.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7a7171ba8f6b74e0",
+  "active": "bed59b1c07c28638",
   "lastOpenFiles": [
-    "01. Введение (A)/1. Introduction.md",
     "02. Кинематика (A)/2. Kinematics.md",
+    "01. Введение (A)/1. Introduction.md",
     "04. Forces arising from contact (A)/4. Forces arising from contact.md"
   ]
 }
