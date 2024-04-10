@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15. Сложение колебаний(L)/15. Addition of oscillation.md",
+                "file": "15. Сложение колебаний(L)/15. Сложение колебаний.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15. Сложение колебаний(L)/15. Addition of oscillation.md",
+                "file": "15. Сложение колебаний(L)/15. Сложение колебаний.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15. Сложение колебаний(L)/15. Addition of oscillation.md",
+                "file": "15. Сложение колебаний(L)/15. Сложение колебаний.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15. Сложение колебаний(L)/15. Addition of oscillation.md"
+                "file": "15. Сложение колебаний(L)/15. Сложение колебаний.md"
               }
             }
           }
@@ -177,4 +177,6 @@
     "09. Динамика твёрдого тела (V)/photo09",
     "09. Динамика твёрдого тела (V)",
     "01. Введение (A)/1. Введение.md",
-    
+    "01. Введение (A)/images/1.md"
+  ]
+}
