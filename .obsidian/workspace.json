@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md",
+                "file": "13. Гидроаэродинамика (L)/13. гидроаэродинамика.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md",
+                "file": "13. Гидроаэродинамика (L)/13. гидроаэродинамика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md",
+                "file": "13. Гидроаэродинамика (L)/13. гидроаэродинамика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md"
+                "file": "13. Гидроаэродинамика (L)/13. гидроаэродинамика.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bed59b1c07c28638",
+  "active": "ce9f084beb838c2d",
   "lastOpenFiles": [
+    "14. Oscillatory motion (L)/14. Oscillatory motion.md",
     "11. Механика упругих сред (V)/Механика упругих сред.md",
     "13. Гидроаэродинамика (L)/13. гидроаэродинамика.md",
     "04. Силы, возникающие при контакте (A)/4. Силы, возникающие при контакте.md",
