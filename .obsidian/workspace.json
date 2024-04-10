@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Силы, возникающие при контакте (A)/4. Силы, возникающие при контакте.md",
+                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Силы, возникающие при контакте (A)/4. Силы, возникающие при контакте.md",
+                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Силы, возникающие при контакте (A)/4. Силы, возникающие при контакте.md",
+                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Силы, возникающие при контакте (A)/4. Силы, возникающие при контакте.md"
+                "file": "14. Oscillatory motion (L)/14. Oscillatory motion.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ce9f084beb838c2d",
+  "active": "bed59b1c07c28638",
   "lastOpenFiles": [
-    "02. Кинематика (A)/2. Кинематика.md",
+    "11. Механика упругих сред (V)/Механика упругих сред.md",
+    "13. Гидроаэродинамика (L)/13. гидроаэродинамика.md",
     "04. Силы, возникающие при контакте (A)/4. Силы, возникающие при контакте.md",
+    "02. Кинематика (A)/2. Кинематика.md",
     "12. Гидроаэростатика (V)/photo12/Pasted image 20240409203322.png",
     "12. Гидроаэростатика (V)/photo12/Pasted image 20240409203442.png",
     "12. Гидроаэростатика (V)/Гидроаэростатика.md",
@@ -158,7 +160,6 @@
     "11. Механика упругих сред (V)/photo11/Pasted image 20240409202851.png",
     "11. Механика упругих сред (V)/photo11/Pasted image 20240409203125.png",
     "11. Механика упругих сред (V)/photo11",
-    "11. Механика упругих сред (V)/Механика упругих сред.md",
     "11. Механика упругих сред (V)",
     "03. Динамика (А)/3. Динамика.md",
     "10. Равновесие тела (V)/photo10/ravnoves.png",
