@@ -40,4 +40,4 @@ $$ z=(m_{1}z_{1}+m_{2}z_{2})/(m_{1}+m_{2}) $$
  $$ y_{c}= \sum m_iy_i/\sum m_i $$ 
 
  $$ z_{c}= \sum m_iz_i/\sum m_i $$ 
-![](ima/МС.gif)
+![](./ima/МС.gif)
